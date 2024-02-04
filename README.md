@@ -1,2 +1,10 @@
-# spring-kaka-producer
-Spring Boot Kafka Producer
+# Spring Boot Kafka Producer
+
+### Build
+`
+./gradlew clean build
+`
+### Run Locally
+`
+./gradlew bootRun
+`
